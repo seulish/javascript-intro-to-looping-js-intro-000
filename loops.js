@@ -32,7 +32,7 @@ function doWhileLoop(int) {
 }
 
 // actual answer:
-//function doWhileLoop(num) {
+// function doWhileLoop(num) {
 //	var i = 0;
 
 //	function incrementVariable() {
